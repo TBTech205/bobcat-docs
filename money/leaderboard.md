@@ -14,7 +14,7 @@ Shows you the leaderboard
 #### Permissions:
 
 ```
-`Manage Channels` permission
+None
 ```
 
 #### Arguments:

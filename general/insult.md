@@ -13,7 +13,7 @@ Insults a yourself or a member (this can be harsh)
 #### Permissions:
 
 ```
-No permissions needed for this command
+None
 ```
 
 #### Arguments:

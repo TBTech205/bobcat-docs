@@ -13,7 +13,7 @@ calculates your love bettween 2 people
 #### Permissions:
 
 ```
-No permissions needed for this command
+None
 ```
 
 #### Arguments:

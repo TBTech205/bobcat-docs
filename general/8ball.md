@@ -1,4 +1,4 @@
-# 8-Ball
+# 8Ball
 
 **Description:**
 
@@ -14,7 +14,7 @@ This plays a magic 8 ball
 #### Permissions:
 
 ```
-No permissions needed for this command
+None
 ```
 
 #### Arguments:

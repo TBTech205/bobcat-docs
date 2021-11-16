@@ -13,7 +13,7 @@ Send an invite link to add BobCat your server
 #### Permissions:
 
 ```
-No permissions needed for this command
+None
 ```
 
 #### Arguments:

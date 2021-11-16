@@ -13,7 +13,7 @@ Sets your afk status
 #### Permissions:
 
 ```
-No permissions needed for this command
+None
 ```
 
 #### Arguments:

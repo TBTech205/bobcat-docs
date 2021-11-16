@@ -13,7 +13,7 @@ Shows a dead chat message
 #### Permissions:
 
 ```
-No permissions needed for this command
+None
 ```
 
 #### Arguments:

@@ -13,7 +13,7 @@ Shows you your current level, how much XP you have at your current level and how
 #### Permissions:
 
 ```
-No special permissions needed for this command
+None
 ```
 
 #### Arguments:

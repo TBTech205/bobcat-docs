@@ -14,7 +14,7 @@ Lets flip a coin for Heads/Tails
 #### Permissions:
 
 ```
-No permissions needed for this command
+None
 ```
 
 #### Arguments:

@@ -15,7 +15,7 @@ Calculates how hot you are
 #### Permissions:
 
 ```
-No permissions needed for this command
+None
 ```
 
 #### Arguments:

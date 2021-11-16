@@ -13,7 +13,7 @@ Shows what's in the shop
 #### Permissions:
 
 ```
-`Manage Channels` permission
+None
 ```
 
 #### Arguments:
