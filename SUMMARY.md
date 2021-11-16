@@ -1,0 +1,66 @@
+# Table of contents
+
+* [BobCat Command list](README.md)
+
+## General
+
+* [Rank](general/rank.md)
+* [AFK](general/afk.md)
+* [Invite](general/invite.md)
+* [Ping](general/ping.md)
+* [Dead](general/dead.md)
+* [Coinflip](general/coinflip.md)
+* [8-Ball](general/8-ball.md)
+* [Suggestion](general/suggestion.md)
+* [Hug](general/hug.md)
+* [Howhot](general/howhot.md)
+* [Lovecalc](general/lovecalc.md)
+* [Kill](general/kill.md)
+* [Insult](general/insult.md)
+
+## Moderation
+
+* [Clear](moderation/clear.md)
+* [Kick](moderation/kick.md)
+* [Ban](moderation/ban.md)
+* [Unban](moderation/unban.md)
+* [Mute](moderation/mute.md)
+* [Unmute](moderation/unmute.md)
+* [Slowmode](moderation/slowmode.md)
+* [Poll](moderation/poll.md)
+* [Giveaway](moderation/giveaway.md)
+* [Emoji](moderation/emoji.md)
+* [Lockdown](moderation/lockdown.md)
+* [Unlock](moderation/unlock.md)
+
+## Money
+
+* [Leaderboard](money/leaderboard.md)
+* [Shop](money/shop.md)
+* [Balance](money/balance.md)
+* [Work](money/work.md)
+* [Withdraw](money/withdraw.md)
+* [Deposit](money/deposit.md)
+* [Send](money/send.md)
+* [Rob](money/rob.md)
+* [Buy](money/buy.md)
+* [Sell](money/sell.md)
+
+## User
+
+* [Avatar](user/avatar.md)
+* [Userinfo](user/userinfo.md)
+
+## Server
+
+* [Membercount](server/membercount.md)
+* [Servericon](server/servericon.md)
+* [Serverbanner](server/serverbanner.md)
+* [Serverinfo](server/serverinfo.md)
+* [Roleinfo](server/roleinfo.md)
+
+## Settings
+
+* [Settings](settings/settings.md)
+* [Welcome](settings/welcome.md)
+* [Level](settings/level.md)
