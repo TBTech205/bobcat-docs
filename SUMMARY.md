@@ -15,7 +15,6 @@
 * [Hug](general/hug.md)
 * [Howhot](general/howhot.md)
 * [Lovecalc](general/lovecalc.md)
-* [Kill](general/kill.md)
 * [Insult](general/insult.md)
 
 ## Moderation
