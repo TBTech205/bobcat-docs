@@ -7,7 +7,7 @@ Shows you your current level, how much XP you have at your current level and how
 #### Usage:
 
 ```
-<prefix>rank [Mention]
+<prefix>rank {mention}
 ```
 
 #### Permissions:
@@ -19,7 +19,7 @@ None
 #### Arguments:
 
 ```
-[Mention] - Optional user mention or User ID.
+{Mention} - Optional user mention or User ID.
 ```
 
 #### Syntax:

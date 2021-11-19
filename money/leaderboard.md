@@ -20,7 +20,7 @@ None
 #### Arguments:
 
 ```
-{channel} - A channel mention or ID
+None
 ```
 
 #### Syntax:
