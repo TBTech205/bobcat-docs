@@ -66,3 +66,12 @@
 * [Settings](settings/settings.md)
 * [Welcome](settings/welcome.md)
 * [Level](settings/level.md)
+
+## Animal
+
+* [Cat](animal/cat.md)
+* [Dog](animal/dog.md)
+* [Fox](animal/fox.md)
+* [Panda](animal/panda.md)
+* [Bird](animal/bird.md)
+* [Koala](animal/koala.md)
