@@ -32,6 +32,7 @@
 * [Emoji](moderation/emoji.md)
 * [Lockdown](moderation/lockdown.md)
 * [Unlock](moderation/unlock.md)
+* [Giverole](moderation/giverole.md)
 
 ## Money
 
