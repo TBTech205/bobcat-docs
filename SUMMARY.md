@@ -66,6 +66,7 @@
 * [Settings](settings/settings.md)
 * [Welcome](settings/welcome.md)
 * [Level](settings/level.md)
+* [Economy](settings/economy.md)
 
 ## Animal
 
