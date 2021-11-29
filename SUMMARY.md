@@ -27,6 +27,7 @@
 * [Mute](moderation/mute.md)
 * [Unmute](moderation/unmute.md)
 * [Slowmode](moderation/slowmode.md)
+* [Warn](moderation/warn.md)
 * [Poll](moderation/poll.md)
 * [Giveaway](moderation/giveaway.md)
 * [Emoji](moderation/emoji.md)
