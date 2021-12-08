@@ -38,6 +38,10 @@
 * [Giverole](moderation/giverole.md)
 * [Takerole](moderation/takerole.md)
 
+## Security
+
+* [Security ](security/security.md)
+
 ## Money
 
 * [Leaderboard](money/leaderboard.md)
