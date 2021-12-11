@@ -2,7 +2,7 @@
 
 **Description:**
 
-Locks** **down the channel
+Locks **** down the channel
 
 #### Usage:
 

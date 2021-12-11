@@ -1,9 +1,12 @@
 # Table of contents
 
 * [BobCat Command list](README.md)
-* [FAQ](faq.md)
 
-## General
+## 🏡 Home
+
+* [FAQ](home/faq.md)
+
+## 🎮 General
 
 * [Rank](general/rank.md)
 * [AFK](general/afk.md)
@@ -19,7 +22,7 @@
 * [Lovecalc](general/lovecalc.md)
 * [Insult](general/insult.md)
 
-## Moderation
+## 🔨 Moderation
 
 * [Clear](moderation/clear.md)
 * [Kick](moderation/kick.md)
@@ -38,11 +41,11 @@
 * [Giverole](moderation/giverole.md)
 * [Takerole](moderation/takerole.md)
 
-## Security
+## 🛡 Security
 
-* [Security ](security/security.md)
+* [Security](security/security.md)
 
-## Money
+## 💷 Money
 
 * [Leaderboard](money/leaderboard.md)
 * [Shop](money/shop.md)
@@ -55,12 +58,12 @@
 * [Buy](money/buy.md)
 * [Sell](money/sell.md)
 
-## User
+## 🧑 User
 
 * [Avatar](user/avatar.md)
 * [Userinfo](user/userinfo.md)
 
-## Server
+## 💾 Server
 
 * [Membercount](server/membercount.md)
 * [Servericon](server/servericon.md)
@@ -68,14 +71,14 @@
 * [Serverinfo](server/serverinfo.md)
 * [Roleinfo](server/roleinfo.md)
 
-## Settings
+## ⚙ Settings
 
 * [Settings](settings/settings.md)
 * [Welcome](settings/welcome.md)
 * [Level](settings/level.md)
 * [Economy](settings/economy.md)
 
-## Animal
+## 🐧 Animal
 
 * [Cat](animal/cat.md)
 * [Dog](animal/dog.md)
