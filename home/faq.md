@@ -16,7 +16,7 @@ Yes you can add both bots into your servers.
 
 We currently are using python and the pycord library.
 
-### 04how do we host the bots
+### 05 how do we host the bots
 
 We currently use a self made server that uses Pterodactyl Software
 
