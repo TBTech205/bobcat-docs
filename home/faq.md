@@ -1,7 +1,5 @@
 # FAQ
 
-
-
 ### 01 Is your bots code open source?
 
 No we do not give our or share **ANY** code for our bots.
@@ -21,3 +19,7 @@ We currently are using python and the pycord library.
 ### 04how do we host the bots
 
 We currently use a self made server that uses Pterodactyl Software
+
+****
+
+**Last Updated: 13/12/21**
