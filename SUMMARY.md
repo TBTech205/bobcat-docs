@@ -4,6 +4,7 @@
 
 ## 🏡 Home
 
+* [ABOUT BOBCAT](home/about-bobcat.md)
 * [FAQ](home/faq.md)
 
 ## 🎮 General
