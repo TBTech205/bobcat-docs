@@ -1,4 +1,4 @@
-# Security&#x20;
+# Security
 
 **Description:**
 

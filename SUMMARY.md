@@ -44,8 +44,7 @@
 
 ## 🛡 Security
 
-* [Security](security/security/README.md)
-  * [Page 1](security/security/page-1.md)
+* [Security](security/security.md)
 
 ## 💷 Money
 
