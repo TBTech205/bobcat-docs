@@ -45,8 +45,8 @@
 ## 🛡 Security
 
 * [Security](security/security.md)
-* [Page 1](security/page-1.md)
-* [Page 2](security/page-2.md)
+* [Anti link](security/anti-link.md)
+* [Anti scam](security/page-2.md)
 
 ## 💷 Money
 
