@@ -90,3 +90,4 @@
 * [Bird](animal/bird.md)
 * [Koala](animal/koala.md)
 * [Racoon](animal/racoon.md)
+* [kangaroo](animal/kangaroo.md)
