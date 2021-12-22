@@ -89,3 +89,4 @@
 * [Panda](animal/panda.md)
 * [Bird](animal/bird.md)
 * [Koala](animal/koala.md)
+* [Racoon](animal/racoon.md)
