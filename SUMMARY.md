@@ -35,7 +35,6 @@
 * [Warn](moderation/warn.md)
 * [Warnings](moderation/warnings.md)
 * [Poll](moderation/poll.md)
-* [Giveaway](moderation/giveaway.md)
 * [Emoji](moderation/emoji.md)
 * [Lockdown](moderation/lockdown.md)
 * [Unlock](moderation/unlock.md)
