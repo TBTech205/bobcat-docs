@@ -17,7 +17,6 @@
 * [Diceroll](general/diceroll.md)
 * [Coinflip](general/coinflip.md)
 * [8Ball](general/8ball.md)
-* [Suggestion](general/suggestion.md)
 * [Hug](general/hug.md)
 * [Howhot](general/howhot.md)
 * [Lovecalc](general/lovecalc.md)
