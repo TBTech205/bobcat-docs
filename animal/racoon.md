@@ -4,32 +4,31 @@ description: NEW
 
 # Racoon
 
-**Description:**
+### **Description**
 
 Shows a picture of racoon with a fact
 
-#### Usage:
+### Usage
 
 ```
-<prefix>raccon
+b!raccon
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

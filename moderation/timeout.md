@@ -1,13 +1,13 @@
-# Mute
+# Timeout
 
 ### **Description**
 
-Mutes a member from the server
+Unmutes a member from the server
 
 ### Usage
 
 ```
-b!kick [member] {reason}
+b!timeout [member] [time] {reason}
 ```
 
 ### Permissions
@@ -20,7 +20,8 @@ b!kick [member] {reason}
 
 ```
 [member] - A member mention or User ID
-{reason} - A reason for action
+[time] - Values: 60s, 300s, 600s, 1h, 1d, 1w
+{reason} - A reason for the timeout
 ```
 
 ### Syntax

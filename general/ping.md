@@ -1,31 +1,31 @@
 # Ping
 
-**Description:**
+### **Description**
 
 Shows the current ping of BobCat
 
-#### Usage:
+### Usage
 
 ```
-<prefix>ping
+b!ping
+/ping
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

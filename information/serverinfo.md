@@ -1,31 +1,30 @@
 # Serverinfo
 
-**Description:**
+### **Description**
 
 Shows your information about the server
 
-#### Usage:
+### Usage
 
 ```
-<prefix>serverinfo
+b!serverinfo
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

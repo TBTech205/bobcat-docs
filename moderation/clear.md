@@ -1,32 +1,31 @@
 # Clear
 
-**Description:**
+### **Description**
 
 Deletes a number of messages in a channel
 
-#### Usage:
+### Usage
 
 ```
-<prefix>clear [amount]
-<prefix>purge [amount]
+b!clear [amount]
+b!purge [amount]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
-`Manage Messages` permission
+`Manage Messages` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 {amount} - The amount of messages you want to delete
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

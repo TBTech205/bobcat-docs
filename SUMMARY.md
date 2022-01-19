@@ -30,6 +30,7 @@
 * [Unban](moderation/unban.md)
 * [Mute](moderation/mute.md)
 * [Unmute](moderation/unmute.md)
+* [Timeout](moderation/timeout.md)
 * [Slowmode](moderation/slowmode.md)
 * [Warn](moderation/warn.md)
 * [Warnings](moderation/warnings.md)
@@ -40,44 +41,38 @@
 * [Giverole](moderation/giverole.md)
 * [Takerole](moderation/takerole.md)
 
-## 🛡 Security
-
-* [Security](security/security.md)
-* [Anti link](security/anti-link.md)
-* [Anti scam](security/page-2.md)
-
 ## 💷 Money
 
-* [Leaderboard](money/leaderboard.md)
-* [Shop](money/shop.md)
-* [Balance](money/balance.md)
-* [Work](money/work.md)
-* [Withdraw](money/withdraw.md)
-* [Deposit](money/deposit.md)
-* [Send](money/send.md)
-* [Rob](money/rob.md)
-* [Buy](money/buy.md)
-* [Sell](money/sell.md)
+* [Economy](money/economy/README.md)
+  * [Leaderboard](money/economy/leaderboard.md)
+  * [Sell](money/economy/sell.md)
+  * [Shop](money/economy/shop.md)
+  * [Balance](money/economy/balance.md)
+  * [Work](money/economy/work.md)
+  * [Withdraw](money/economy/withdraw.md)
+  * [Deposit](money/economy/deposit.md)
+  * [Send](money/economy/send.md)
+  * [Rob](money/economy/rob.md)
+  * [Buy](money/economy/buy.md)
 
-## 🧑 User
+## ℹ Information
 
-* [Avatar](user/avatar.md)
-* [Userinfo](user/userinfo.md)
-
-## 💾 Server
-
-* [Membercount](server/membercount.md)
-* [Servericon](server/servericon.md)
-* [Serverbanner](server/serverbanner.md)
-* [Serverinfo](server/serverinfo.md)
-* [Roleinfo](server/roleinfo.md)
+* [Avatar](information/avatar.md)
+* [Userinfo](information/userinfo.md)
+* [Serverinfo](information/serverinfo.md)
+* [Roleinfo](information/roleinfo.md)
+* [Membercount](information/membercount.md)
+* [Servericon](information/servericon.md)
+* [Serverbanner](information/serverbanner.md)
 
 ## ⚙ Settings
 
-* [Settings](settings/settings.md)
-* [Welcome](settings/welcome.md)
-* [Level](settings/level.md)
-* [Economy](settings/economy.md)
+* [Security](settings/security.md)
+* [Old Files](settings/old-files/README.md)
+  * [Settings](settings/old-files/settings.md)
+  * [Welcome](settings/old-files/welcome.md)
+  * [Level](settings/old-files/level.md)
+  * [Economy](settings/old-files/economy.md)
 
 ## 🐧 Animal
 

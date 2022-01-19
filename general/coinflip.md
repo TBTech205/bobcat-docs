@@ -1,32 +1,31 @@
 # Coinflip
 
-**Description:**
+### **Description**
 
 Lets flip a coin for Heads/Tails
 
-#### Usage:
+### Usage
 
 ```
-<prefix>coinflip
-<prefix>flip
+b!coinflip
+b!flip
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

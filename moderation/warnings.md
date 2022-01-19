@@ -1,31 +1,34 @@
 # Warnings
 
-**Description:**
+## **⚠ Disabled**&#x20;
+
+****
+
+### **Description**
 
 Shows a member warnings
 
-#### Usage:
+### Usage
 
 ```
-<prefix>warnings [member]
+b!warnings [member]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
-`Kick Members` permission
+`Kick Members` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [member] - A member mention or ID
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

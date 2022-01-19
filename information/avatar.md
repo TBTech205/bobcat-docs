@@ -1,13 +1,14 @@
-# Dog
+# Avatar
 
 ### **Description**
 
-Shows a picture of dog with a fact
+Shows yours or a members profile picture
 
 ### Usage
 
 ```
-b!dog
+b!avatar {member}
+/avatar {member}
 ```
 
 ### Permissions
@@ -19,7 +20,7 @@ None
 ### Arguments
 
 ```
-None
+{member} - A user mention or ID
 ```
 
 ### Syntax

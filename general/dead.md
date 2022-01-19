@@ -1,31 +1,30 @@
 # Dead
 
-**Description:**
+### **Description**
 
 Shows a dead chat message
 
-#### Usage:
+### Usage
 
 ```
-<prefix>dead
+b!dead
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

@@ -1,31 +1,30 @@
 # Panda
 
-**Description:**
+### **Description**
 
 Shows a picture of panda with a fact
 
-#### Usage:
+### Usage
 
 ```
-<prefix>panda
+b!panda
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

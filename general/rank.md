@@ -1,31 +1,31 @@
 # Rank
 
-**Description:**
+### **Description**
 
 Shows you your current level, how much XP you have at your current level and how much is needed for a level-up
 
-#### Usage:
+### Usage
 
 ```
-<prefix>rank {mention}
+b!rank {mention}
+/rank {mention}
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 None
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 {Mention} - Optional user mention or User ID.
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

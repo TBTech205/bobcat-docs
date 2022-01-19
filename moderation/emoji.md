@@ -1,35 +1,32 @@
 # Emoji
 
-**Description:**
+### **Description**
 
 Creates a emoji
 
-#### Usage:
+### Usage
 
 ```
-<prefix>createemoji [url] [name]
-<prefix>steal [url] [name]
-<prefix>ae [url] [name]
-<prefix>ce [url] [name]
+b!createemoji [url] [name]
+b!steal [url] [name]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 `Manage Emojis` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [url] - Emoji url
 {name} - A name for the emoji
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

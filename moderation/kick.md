@@ -1,32 +1,31 @@
 # Kick
 
-**Description:**
+### **Description**
 
 Kicks a member from the server
 
-#### Usage:
+### Usage
 
 ```
-<prefix>kick [member] {reason}
+b!kick [member] {reason}
 ```
 
-#### Permissions:
+### Permissions
 
 ```
-`Kick Members` permission
+`Kick Members` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 {Mention} - A user mention or User ID.
 [Reason] - A reason for kick.
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

@@ -1,31 +1,31 @@
 # Invite
 
-**Description:**
+### **Description**
 
 Send an invite link to add BobCat your server
 
-#### Usage:
+### Usage
 
 ```
-<prefix>invite
+b!invite
+/invite
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

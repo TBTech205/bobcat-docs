@@ -1,31 +1,30 @@
 # Insult
 
-**Description:**
+### **Description**
 
 Insults a yourself or a member (this can be harsh)
 
-#### Usage:
+### Usage
 
 ```
-<prefix>insult {member}
+b!insult {member}
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 None
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 {member} - Mention or ID
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

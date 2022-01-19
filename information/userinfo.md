@@ -1,13 +1,13 @@
-# Dog
+# Userinfo
 
 ### **Description**
 
-Shows a picture of dog with a fact
+Shows information on you or a members
 
 ### Usage
 
 ```
-b!dog
+b!userinfo {member}
 ```
 
 ### Permissions
@@ -19,7 +19,7 @@ None
 ### Arguments
 
 ```
-None
+{member} - A member mention or ID
 ```
 
 ### Syntax

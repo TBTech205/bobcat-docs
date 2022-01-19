@@ -1,33 +1,36 @@
 # Giverole
 
-**Description:**
+## ⚠️ Disabled&#x20;
+
+
+
+**Description**
 
 Gives a role to a member
 
-#### Usage:
+### Usage
 
 ```
-<prefix>giverole [user] [role]
-<prefix>addrole [user] [role]
+b!giverole [user] [role]
+b!addrole [user] [role]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
-`Manage Roles` permission
+`Manage Roles` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [user] - A member mention or ID
 [role] - A role mention or ID
 ```
 
-#### Syntax:
+#### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

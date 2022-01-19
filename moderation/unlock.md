@@ -1,31 +1,30 @@
 # Unlock
 
-**Description:**
+### **Description**
 
 Unlock the channel
 
-#### Usage:
+### Usage
 
 ```
-<prefix>unlock {channel}
+b!unlock {channel}
 ```
 
-#### Permissions:
+### Permissions
 
 ```
-`Manage Channels` permission
+`Manage Channels` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 {channel} - A channel mention or ID
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

@@ -1,31 +1,30 @@
 # Fox
 
-**Description:**
+### **Description**
 
 Shows a picture of fox with a fact
 
-#### Usage:
+### Usage
 
 ```
-<prefix>fox
+b!fox
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

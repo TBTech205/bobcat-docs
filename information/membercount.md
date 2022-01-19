@@ -1,13 +1,13 @@
-# Dog
+# Membercount
 
 ### **Description**
 
-Shows a picture of dog with a fact
+Shows a member count for the server
 
 ### Usage
 
 ```
-b!dog
+b!membercount
 ```
 
 ### Permissions

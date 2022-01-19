@@ -1,31 +1,35 @@
 # AFK
 
-**Description:**
+## **⚠ Disabled**&#x20;
+
+****
+
+**Description**
 
 Sets your afk status
 
-#### Usage:
+### Usage
 
 ```
-<prefix>afk {reason}
+b!afk {reason}
+/afk {reason}
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 None
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 {reason} - Sets the afk reason
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

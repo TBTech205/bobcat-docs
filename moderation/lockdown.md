@@ -1,31 +1,30 @@
 # Lockdown
 
-**Description:**
+### **Description**
 
-Locks **** down the channel
+Puts a channel on a lockdown
 
-#### Usage:
-
-```
-<prefix>lockdown {channel}
-```
-
-#### Permissions:
+### Usage
 
 ```
-`Manage Channels` permission
+b!lockdown {channel}
 ```
 
-#### Arguments:
+### Permissions
+
+```
+`Manage Channels` permissions
+```
+
+### Arguments
 
 ```
 {channel} - A channel mention or ID
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

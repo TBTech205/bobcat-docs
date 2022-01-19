@@ -1,31 +1,30 @@
 # Unmute
 
-**Description:**
+### **Description**
 
 Unmutes a member from the server
 
-#### Usage:
+### Usage
 
 ```
-<prefix>unmute [member]
+b!unmute [member]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 `Kick Members` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [member] - A member mention or User ID
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

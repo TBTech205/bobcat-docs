@@ -1,31 +1,30 @@
 # Security
 
-**Description:**
+### **Description**
 
 This command will open a panel **(Admin Only)** which allows you to enable or disable the **Security & Safety** feature.
 
-#### Usage:
+### Usage
 
 ```
-<prefix>Security
+b!help > Settings > Security 
 ```
 
-#### Permissions:
+### Permissions
 
 ```
-`administrator` premissions
+administrator permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 None
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

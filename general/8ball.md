@@ -1,32 +1,31 @@
 # 8Ball
 
-**Description:**
+### **Description**
 
 This plays a magic 8 ball
 
-#### Usage:
+### Usage
 
 ```
-<prefix>8ball [question]
-<prefix>ask [question]
+b!8ball [question]
+b!ask [question]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 None
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [question] - input your question
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

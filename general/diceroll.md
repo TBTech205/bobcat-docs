@@ -1,31 +1,30 @@
 # Diceroll
 
-**Description:**
+### **Description**
 
 Insults a yourself or a member (this can be harsh)
 
-#### Usage:
+### Usage <a href="#usage" id="usage"></a>
 
 ```
-<prefix>diceroll
+b!diceroll
 ```
 
-#### Permissions:
-
-```
-None
-```
-
-#### Arguments:
+### Permissions
 
 ```
 None
 ```
 
-#### Syntax:
+### Arguments
 
 ```
-<prefix> - b! or custom prefix
+None
+```
+
+### Syntax
+
+```
 [] - Required.
 {} - Optional.
 ```

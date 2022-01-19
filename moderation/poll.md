@@ -1,31 +1,30 @@
 # Poll
 
-**Description:**
+### **Description**
 
 Creates a poll in the server
 
-#### Usage:
+### Usage
 
 ```
-<prefix>poll [message]
+b!poll [message]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
-`Manage Messages` permission
+`Manage Messages` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [message] - Displays the message in a embed
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

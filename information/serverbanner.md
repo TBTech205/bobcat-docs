@@ -1,13 +1,13 @@
-# Dog
+# Serverbanner
 
 ### **Description**
 
-Shows a picture of dog with a fact
+Shows your server banner
 
 ### Usage
 
 ```
-b!dog
+b!serverbanner
 ```
 
 ### Permissions

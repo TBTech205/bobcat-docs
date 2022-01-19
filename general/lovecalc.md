@@ -1,32 +1,31 @@
 # Lovecalc
 
-**Description:**
+### **Description**
 
-calculates your love bettween 2 people
+calculates your love between 2 people
 
-#### Usage:
+### Usage
 
 ```
-<prefix>lovecalc [member1] [member2]
+b!lovecalc [member1] [member2]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 None
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [member1] - Mention or ID
 [member2] - Mention or ID
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

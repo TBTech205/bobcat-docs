@@ -1,5 +1,9 @@
 # Takerole
 
+## ⚠️ Disabled
+
+
+
 **Description:**
 
 Removes a role to a member
@@ -7,14 +11,14 @@ Removes a role to a member
 #### Usage:
 
 ```
-<prefix>removerole [user] [role]
-<prefix>takerole [user] [role]
+b!removerole [user] [role]
+b!takerole [user] [role]
 ```
 
 #### Permissions:
 
 ```
-`Manage Roles` permission
+`Manage Roles` permissions
 ```
 
 #### Arguments:

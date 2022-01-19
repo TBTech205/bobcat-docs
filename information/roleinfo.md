@@ -1,13 +1,13 @@
-# Dog
+# Roleinfo
 
 ### **Description**
 
-Shows a picture of dog with a fact
+Shows information about a server role
 
 ### Usage
 
 ```
-b!dog
+b!roleinfo [role]
 ```
 
 ### Permissions
@@ -19,7 +19,7 @@ None
 ### Arguments
 
 ```
-None
+[role] - A role mention or ID
 ```
 
 ### Syntax

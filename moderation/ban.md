@@ -1,32 +1,31 @@
 # Ban
 
-**Description:**
+### **Description**
 
 Bans the member you mentioned
 
-#### Usage:
+### Usage
 
 ```
-<prefix>ban [member] {reason}
+b!ban [member] {reason}
 ```
 
-#### Permissions:
+### Permissions
 
 ```
-`Ban Members` permission
+`Ban Members` permissions
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [member] - A member mention or User ID
 {reason} - A reason for action
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

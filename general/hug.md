@@ -1,31 +1,30 @@
 # Hug
 
-**Description:**
+### **Description**
 
 Hugs a member u mentioned
 
-#### Usage:
+### Usage
 
 ```
-<prefix>hug [member]
+b!hug [member]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 None
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [member] - Mention or ID
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```

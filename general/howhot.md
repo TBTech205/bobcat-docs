@@ -1,33 +1,32 @@
 # Howhot
 
-**Description:**
+### **Description**
 
 Calculates how hot you are
 
-#### Usage:
+### Usage
 
 ```
-<prefix>howhot [member]
-<prefix>hotcalc [member]
-<prefix>hot [member]
+b!howhot [member]
+b!hotcalc [member]
+b!hot [member]
 ```
 
-#### Permissions:
+### Permissions
 
 ```
 None
 ```
 
-#### Arguments:
+### Arguments
 
 ```
 [member] - Mention or ID
 ```
 
-#### Syntax:
+### Syntax
 
 ```
-<prefix> - b! or custom prefix
 [] - Required.
 {} - Optional.
 ```
