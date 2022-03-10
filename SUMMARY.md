@@ -18,9 +18,6 @@
 * [Coinflip](general/coinflip.md)
 * [8Ball](general/8ball.md)
 * [Hug](general/hug.md)
-* [Howhot](general/howhot.md)
-* [Lovecalc](general/lovecalc.md)
-* [Insult](general/insult.md)
 
 ## 🔨 Moderation
 
@@ -68,11 +65,6 @@
 ## ⚙ Settings
 
 * [Security](settings/security.md)
-* [Old Files](settings/old-files/README.md)
-  * [Settings](settings/old-files/settings.md)
-  * [Welcome](settings/old-files/welcome.md)
-  * [Level](settings/old-files/level.md)
-  * [Economy](settings/old-files/economy.md)
 
 ## 🐧 Animal
 
