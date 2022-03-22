@@ -55,8 +55,8 @@
 ## ℹ Information
 
 * [Avatar](information/avatar.md)
-* [Userinfo](information/userinfo.md)
-* [Serverinfo](information/serverinfo.md)
+* [User](information/userinfo.md)
+* [Server](information/serverinfo.md)
 
 ## ⚙ Settings
 
