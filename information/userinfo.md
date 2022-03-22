@@ -2,12 +2,13 @@
 
 ### **Description**
 
-Shows information on you or a members
+Shows your or a member information and avatar.
 
 ### Usage
 
 ```
-b!userinfo {member}
+b!user {member}
+/user {member}
 ```
 
 ### Permissions

@@ -2,7 +2,7 @@
 
 ### **Description**
 
-Shows yours or a members profile picture
+Shows yours or a member avatar and banner
 
 ### Usage
 

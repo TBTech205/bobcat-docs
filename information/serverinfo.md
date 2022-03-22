@@ -2,12 +2,13 @@
 
 ### **Description**
 
-Shows your information about the server
+Shows your or a member information about the server
 
 ### Usage
 
 ```
-b!serverinfo
+b!server
+/server
 ```
 
 ### Permissions

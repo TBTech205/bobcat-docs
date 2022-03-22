@@ -57,10 +57,6 @@
 * [Avatar](information/avatar.md)
 * [Userinfo](information/userinfo.md)
 * [Serverinfo](information/serverinfo.md)
-* [Roleinfo](information/roleinfo.md)
-* [Membercount](information/membercount.md)
-* [Servericon](information/servericon.md)
-* [Serverbanner](information/serverbanner.md)
 
 ## ⚙ Settings
 
