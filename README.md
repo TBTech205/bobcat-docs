@@ -1,7 +1,5 @@
 ---
 description: Here you can see all features and commands of BobCat
-coverY: 0
-cover: .gitbook/assets/BobCat docs (2).png
 ---
 
 # BobCat Command list
