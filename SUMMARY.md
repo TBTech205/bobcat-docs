@@ -19,7 +19,7 @@
 * [8Ball](general/8ball.md)
 * [Hug](general/hug.md)
 
-## Moderation
+## ⚒ Moderation
 
 * [Clear](moderation/clear.md)
 * [Kick](moderation/kick.md)
@@ -59,7 +59,7 @@
 * [User](information/userinfo.md)
 * [Server](information/serverinfo.md)
 
-## Settings
+## ⚙ Settings
 
 * [Security](settings/security.md)
 
