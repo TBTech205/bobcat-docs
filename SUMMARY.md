@@ -62,7 +62,7 @@
 ## ⚙ Settings
 
 * [Security](settings/security.md)
-* [Page 1](settings/page-1.md)
+* [Levelling](settings/levelling.md)
 
 ## 🐧 Animal
 
