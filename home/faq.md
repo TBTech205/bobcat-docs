@@ -38,6 +38,7 @@ We currently are using python and the pycord library.
 <summary>05 how do we host the bots?</summary>
 
 We currently use a self made server that uses Pterodactyl Software.
+<br>
 Proudly provide by [Rabbit Hosting](https://rabbit-hosting.com/discordbot)
 
 </details>
