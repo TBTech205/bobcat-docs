@@ -9,7 +9,9 @@
 
 ## 🎮 General
 
-* [Rank](general/rank.md)
+* [Levelling](general/levelling/README.md)
+  * [Rank](general/levelling/rank.md)
+  * [Leaderboard](general/levelling/leaderboard.md)
 * [AFK](general/afk.md)
 * [Invite](general/invite.md)
 * [Ping](general/ping.md)
