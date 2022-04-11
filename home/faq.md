@@ -25,9 +25,23 @@ Yes you can add the bot into your servers.
 
 </details>
 
-## 04 What do we use for the bot?
+<details>
+
+<summary>04 What do we use for the bot?</summary>
 
 We currently are using python and the pycord library.
+
+</details>
+
+<details>
+
+<summary>05 how do we host the bots?</summary>
+
+We currently use a self made server that uses Pterodactyl Software.
+Proudly provide by [Rabbit Hosting](https://rabbit-hosting.com/discordbot)
+
+</details>
+
 
 ## 05 how do we host the bots?
 
