@@ -4,6 +4,14 @@
 
 No we do not give our or share **ANY** code for our bots.
 
+<details>
+
+<summary>01 Is your bots code open source?</summary>
+
+No we do not give our or share **ANY** code for our bots.
+
+</details>
+
 ## 02 Can you help me build and code a custom bot for me?
 
 Sorry we do NOT have the time to build other people bots with a profile and code.
