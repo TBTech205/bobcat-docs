@@ -1,8 +1,8 @@
 # Levelling
 
-**Description**
+### **Description**
 
-This command will open a panel **(Admin Only)** which allows you to enable or disable the **Levelling system** feature.
+This command will open a panel **(Admin Only)** which allows you to enable or disable the **Levelling system** features.
 
 ### Usage
 

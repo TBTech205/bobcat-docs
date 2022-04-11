@@ -61,8 +61,11 @@
 
 ## ⚙ Settings
 
+* [Appearance](settings/appearance.md)
 * [Security](settings/security.md)
+* [Welcome](settings/welcome.md)
 * [Levelling](settings/levelling.md)
+* [Logging](settings/logging.md)
 
 ## 🐧 Animal
 

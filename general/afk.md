@@ -1,10 +1,6 @@
 # AFK
 
-## **⚠ Disabled**&#x20;
-
-****
-
-**Description**
+### **Description**
 
 Sets your afk status
 
