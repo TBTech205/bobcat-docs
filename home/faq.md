@@ -1,8 +1,5 @@
 # FAQ
 
-## 01 Is your bots code open source?
-
-No we do not give our or share **ANY** code for our bots.
 
 <details>
 
@@ -12,9 +9,21 @@ No we do not give our or share **ANY** code for our bots.
 
 </details>
 
-## 02 Can you help me build and code a custom bot for me?
+<details>
+
+<summary>02 Can you help me build and code a custom bot for me?</summary>
 
 Sorry we do NOT have the time to build other people bots with a profile and code.
+
+</details>
+
+<details>
+
+<summary>03  ?</summary>
+
+No we do not give our or share **ANY** code for our bots.
+
+</details>
 
 ## 03 Can I add your bots Bobcat to my server?
 
