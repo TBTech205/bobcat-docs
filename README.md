@@ -6,8 +6,8 @@ description: Here you can see all features and commands of BobCat
 
 ## Command Categories.
 
-{% content-ref url="https://github.com/TBTech205/bobcat-docs/blob/main/general/afk.md" %}
-[Broken link](https://github.com/TBTech205/bobcat-docs/blob/main/general/afk.md)
+{% content-ref url="https://github.com/TBTech205/bobcat-docs/blob/main/general/" %}
+[General](https://github.com/TBTech205/bobcat-docs/blob/main/general/afk.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
