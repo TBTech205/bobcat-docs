@@ -42,7 +42,6 @@
 ## 💷 Money
 
 * [Economy](money/economy/README.md)
-  * [Anti-Link](money/economy/anti-link.md)
   * [Leaderboard](money/economy/leaderboard.md)
   * [Sell](money/economy/sell.md)
   * [Shop](money/economy/shop.md)
