@@ -19,15 +19,11 @@ Sorry we do NOT have the time to build other people bots with a profile and code
 
 <details>
 
-<summary>03  ?</summary>
+<summary>03 Can I add your bots Bobcat to my server?</summary>
 
-No we do not give our or share **ANY** code for our bots.
+Yes you can add the bot into your servers.
 
 </details>
-
-## 03 Can I add your bots Bobcat to my server?
-
-Yes you can add the bot into your servers.&#x20;
 
 ## 04 What do we use for the bot?
 
