@@ -42,11 +42,10 @@ Proudly provide by [Rabbit Hosting](https://rabbit-hosting.com/discordbot)
 
 </details>
 
+<details>
 
-## 05 how do we host the bots?
-
-We currently use a self made server that uses Pterodactyl Software.
-
-## 06 Why is BobCat Music offline?
+<summary>06 Why is BobCat Music offline?</summary>
 
 This is because we have shut down bobcat music and the developer team are mainly focusing on  bobcat and making that the best bot.
+
+</details>
