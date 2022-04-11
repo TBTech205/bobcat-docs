@@ -10,4 +10,4 @@ BobCat Is A Moderation Bot That Keeps Your Members And Server Safe 24/7 Also By 
 
 BobCat Is More Than Just A Discord Bot, He Is Like Family To Each Server He Is In. He Brings Happiness Not Just Servers Also your Face, Because You Know Your Server Is In Safe Hands With BobCat.
 
-{% embed url="https://discord.com/oauth2/authorize?client_id=961762686671155240&permissions=12818312447&scope=bot+applications.commands" %}
+[Add Me](https://discord.com/oauth2/authorize?client_id=961762686671155240&scope=bot%20applications.commands&permissions=12818312447)
