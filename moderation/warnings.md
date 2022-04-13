@@ -1,9 +1,5 @@
 # Warnings
 
-## **⚠ Disabled**&#x20;
-
-****
-
 ### **Description**
 
 Shows a member warnings

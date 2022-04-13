@@ -2,7 +2,7 @@
 
 ### **Description**
 
-Insults a yourself or a member (this can be harsh)
+Rolls a 6 sided dice
 
 ### Usage <a href="#usage" id="usage"></a>
 

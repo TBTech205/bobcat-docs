@@ -2,7 +2,7 @@
 
 ### **Description**
 
-Sets the channels slow\*\*-\*\*mode
+Sets the channels slowmode
 
 ### Usage
 

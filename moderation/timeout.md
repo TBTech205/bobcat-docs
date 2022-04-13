@@ -2,7 +2,7 @@
 
 ### **Description**
 
-Unmutes a member from the server
+Timeouts a member from the server
 
 ### Usage
 
