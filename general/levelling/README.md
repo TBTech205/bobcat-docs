@@ -8,6 +8,6 @@
 
 ## Leader board
 
-{% content-ref url="../../money/economy/leaderboard.md" %}
-[leaderboard.md](../../money/economy/leaderboard.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

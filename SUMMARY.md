@@ -39,22 +39,13 @@
 * [Lockdown](moderation/lockdown.md)
 * [Unlock](moderation/unlock.md)
 
-## 💷 Money
-
-* [Economy](money/economy/README.md)
-  * [Leaderboard](money/economy/leaderboard.md)
-  * [Sell](money/economy/sell.md)
-  * [Shop](money/economy/shop.md)
-  * [Balance](money/economy/balance.md)
-  * [Work](money/economy/work.md)
-  * [Withdraw](money/economy/withdraw.md)
-  * [Deposit](money/economy/deposit.md)
-  * [Send](money/economy/send.md)
-  * [Rob](money/economy/rob.md)
-  * [Buy](money/economy/buy.md)
-
 ## ℹ Information
 
 * [Avatar](information/avatar.md)
 * [User](information/userinfo.md)
 * [Server](information/serverinfo.md)
+
+## 🔎 Search
+
+* [Urban](search/urban.md)
+* [Youtube](search/youtube.md)
