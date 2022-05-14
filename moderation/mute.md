@@ -13,7 +13,7 @@ b!kick [member] {reason}
 ### Permissions
 
 ```
-`Moderate Members` permissions
+`Kick Members` permissions
 ```
 
 ### Arguments

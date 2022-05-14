@@ -13,7 +13,7 @@ b!unmute [member]
 ### Permissions
 
 ```
-`Moderate Members` permissions
+`Kick Members` permissions
 ```
 
 ### Arguments
