@@ -31,13 +31,13 @@
 * [Unmute](moderation/unmute.md)
 * [Timeout](moderation/timeout.md)
 * [Slowmode](moderation/slowmode.md)
-* [Warn](moderation/warn.md)
-* [Unwarn](moderation/unwarn.md)
-* [Warnings](moderation/warnings.md)
 * [Poll](moderation/poll.md)
 * [Emoji](moderation/emoji.md)
 * [Lockdown](moderation/lockdown.md)
 * [Unlock](moderation/unlock.md)
+* [Warn](moderation/warn.md)
+* [Unwarn](moderation/unwarn.md)
+* [Warnings](moderation/warnings.md)
 
 ## ℹ Information
 
