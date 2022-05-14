@@ -13,7 +13,7 @@ b!warn [member] {reason}
 ### Permissions
 
 ```
-`Kick Members` permissions
+`Moderate Members` permissions
 ```
 
 ### Arguments
