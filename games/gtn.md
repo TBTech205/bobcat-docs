@@ -1,13 +1,13 @@
-# Dead
+# Guess the number
 
 ### **Description**
 
-Shows a dead chat message
+Guess the random number between 1 and 10
 
 ### Usage
 
 ```
-b!dead
+b!guess
 ```
 
 ### Permissions
@@ -26,5 +26,4 @@ None
 
 ```
 [] - Required.
-{} - Optional.
 ```

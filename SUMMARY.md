@@ -15,11 +15,15 @@
 * [AFK](general/afk.md)
 * [Invite](general/invite.md)
 * [Ping](general/ping.md)
-* [Dead](general/dead.md)
-* [Diceroll](general/diceroll.md)
-* [Coinflip](general/coinflip.md)
 * [8Ball](general/8ball.md)
 * [Hug](general/hug.md)
+
+## Games
+
+* [Diceroll](games/diceroll.md)
+* [Coinflip](games/coinflip.md)
+* [Guess the number](games/gtn.md)
+* [TicTacToe](games/ttt.md)
 
 ## ⚒ Moderation
 

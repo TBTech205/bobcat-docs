@@ -1,31 +1,29 @@
-# Mute
+# TicTacToe
 
 ### **Description**
 
-Mutes a member from the server
+Lets flip a coin for Heads/Tails
 
 ### Usage
 
 ```
-b!kick [member] {reason}
+b!tictactoe [member]
 ```
 
 ### Permissions
 
 ```
-`Moderate Members` permissions
+None
 ```
 
 ### Arguments
 
 ```
 [member] - A member mention or User ID
-{reason} - A reason for action
 ```
 
 ### Syntax
 
 ```
 [] - Required.
-{} - Optional.
 ```

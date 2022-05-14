@@ -7,19 +7,20 @@ unwarns a member
 ### Usage
 
 ```
-b!unwarn [member]
+b!unwarn [member] [case_number]
 ```
 
 ### Permissions
 
 ```
-`Kick Members` permissions
+`Moderate Members` permissions
 ```
 
 ### Arguments
 
 ```
 [member] - A member mention or ID
+[case_number] - The warn you want to remove
 ```
 
 ### Syntax
