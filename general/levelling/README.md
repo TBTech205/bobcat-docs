@@ -6,8 +6,8 @@
 [rank.md](rank.md)
 {% endcontent-ref %}
 
-## Leader board
+## Leaderboard
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="leaderboard.md" %}
+[leaderboard.md](leaderboard.md)
 {% endcontent-ref %}
