@@ -37,15 +37,12 @@
 * [Slowmode](moderation/slowmode.md)
 * [Poll](moderation/poll.md)
 * [Emoji](moderation/emoji.md)
-* [Lockdown](moderation/lockdown.md)
-* [Unlock](moderation/unlock.md)
 * [Warn](moderation/warn.md)
 * [Unwarn](moderation/unwarn.md)
 * [Warnings](moderation/warnings.md)
 
 ## ℹ Information
 
-* [Avatar](information/avatar.md)
 * [User](information/userinfo.md)
 * [Server](information/serverinfo.md)
 
