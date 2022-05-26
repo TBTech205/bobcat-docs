@@ -8,6 +8,7 @@ Lets flip a coin for Heads/Tails
 
 ```
 b!tictactoe [member]
+b!ttt [member]
 ```
 
 ### Permissions

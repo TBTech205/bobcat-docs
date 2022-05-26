@@ -20,7 +20,8 @@
 
 ## Games
 
-* [Diceroll](games/diceroll.md)
+* [Games](games/diceroll.md)
+* [Diceroll](games/diceroll-1.md)
 * [Coinflip](games/coinflip.md)
 * [Guess the number](games/gtn.md)
 * [TicTacToe](games/ttt.md)

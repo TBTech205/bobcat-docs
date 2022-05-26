@@ -1,8 +1,8 @@
-# Games
+# Diceroll
 
 ### **Description**
 
-Show the list and information of server's games
+Rolls a 6 sided dice
 
 ### Usage <a href="#usage" id="usage"></a>
 
