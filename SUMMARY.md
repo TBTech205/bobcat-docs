@@ -49,6 +49,7 @@
 
 ## 🔎 Search
 
-* [Anime](search/anime.md)
-* [Urban](search/urban.md)
+* [Anime](search/urban.md)
+* [Urban](<search/urban (1).md>)
 * [Youtube](search/youtube.md)
+* [Weather](search/weather.md)

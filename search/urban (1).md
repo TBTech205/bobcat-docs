@@ -1,14 +1,14 @@
-# Anime
+# Urban
 
 ### **Description**
 
-Search for an anime on kitsu.io
+Search for a term on urban dictionary
 
 ### Usage
 
 ```
-b!anime [search]
-/anime [search]
+b!urban [search]
+/urban [search]
 ```
 
 ### Permissions
@@ -20,7 +20,7 @@ None
 ### Arguments
 
 ```
-[search] - The name of the anime to search
+[search] - Term to search for
 ```
 
 ### Syntax
