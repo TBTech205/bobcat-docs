@@ -49,5 +49,6 @@
 
 ## 🔎 Search
 
+* [Anime](search/anime.md)
 * [Urban](search/urban.md)
 * [Youtube](search/youtube.md)
