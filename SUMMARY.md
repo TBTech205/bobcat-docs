@@ -23,7 +23,7 @@
 * [Direct Messages](user-settings/direct-messages.md)
 * [Reply Pings](user-settings/reply-pings.md)
 
-## Games
+## 🎲 Games
 
 * [Games](games/diceroll.md)
 * [Diceroll](games/diceroll-1.md)
