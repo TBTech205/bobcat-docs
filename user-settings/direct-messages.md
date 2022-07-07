@@ -8,6 +8,7 @@ When enabled, notifications you receive will be DM'd to you.
 
 ```
 b!settings dms [status]
+/accout edit > Profile Settings > DM Notifications
 ```
 
 ### Permissions

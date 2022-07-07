@@ -1,14 +1,13 @@
-# Reply Pings
+# Notifications
 
 ### **Description**
 
-When disabled, discord native replies will not ping you when replying
+Shows all your notifications
 
 ### Usage
 
 ```
-b!settings pings [status]
-/accout edit > Profile Settings > Reply Pings
+b!notifications
 ```
 
 ### Permissions
