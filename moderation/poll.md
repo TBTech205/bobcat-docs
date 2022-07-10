@@ -1,5 +1,9 @@
 # Poll
 
+{% hint style="danger" %}
+## Command Disabled
+{% endhint %}
+
 ### **Description**
 
 Creates a poll in the server
