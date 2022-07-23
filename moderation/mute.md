@@ -7,7 +7,7 @@ Mutes a member from the server
 ### Usage
 
 ```
-b!kick [member] {reason}
+b!mute [member] {reason}
 ```
 
 ### Permissions

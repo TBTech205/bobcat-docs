@@ -13,7 +13,7 @@ b!timeout [member] [time] {reason}
 ### Permissions
 
 ```
-`Kick Members` permissions
+`Moderate Members` permissions
 ```
 
 ### Arguments
