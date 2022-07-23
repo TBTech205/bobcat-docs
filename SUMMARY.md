@@ -18,12 +18,6 @@
 * [8Ball](general/8ball.md)
 * [Hug](general/hug.md)
 
-## 🙎 User settings
-
-* [Reply Pings](user-settings/reply-pings.md)
-* [Direct Messages](user-settings/direct-messages.md)
-* [Notifications](user-settings/notifications.md)
-
 ## 🎲 Games
 
 * [Games](games/diceroll.md)
